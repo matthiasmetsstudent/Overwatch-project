@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ROLE-001",
+    "name": "Tank",
+    "description": "Heroes with high durability who create space and protect teammates.",
+    "iconUrl": "https://example.com/images/roles/tank.png",
+    "isFrontline": true
+  },
+  {
+    "id": "ROLE-002",
+    "name": "Damage",
+    "description": "Heroes who focus on dealing damage to eliminate enemies.",
+    "iconUrl": "https://example.com/images/roles/damage.png",
+    "isFrontline": false
+  },
+  {
+    "id": "ROLE-003",
+    "name": "Support",
+    "description": "Heroes who heal, protect, or enhance their teammates.",
+    "iconUrl": "https://example.com/images/roles/support.png",
+    "isFrontline": false
+  }
+]
