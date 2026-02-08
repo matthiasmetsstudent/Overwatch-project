@@ -3,21 +3,21 @@
     "id": "ROLE-001",
     "name": "Tank",
     "description": "Heroes with high durability who create space and protect teammates.",
-    "iconUrl": "https://example.com/images/roles/tank.png",
+    "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/tank.jpg",
     "isFrontline": true
   },
   {
     "id": "ROLE-002",
     "name": "Damage",
     "description": "Heroes who focus on dealing damage to eliminate enemies.",
-    "iconUrl": "https://example.com/images/roles/damage.png",
+    "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dps.jpg",
     "isFrontline": false
   },
   {
     "id": "ROLE-003",
     "name": "Support",
     "description": "Heroes who heal, protect, or enhance their teammates.",
-    "iconUrl": "https://example.com/images/roles/support.png",
+    "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/support.jpg",
     "isFrontline": false
   }
 ]

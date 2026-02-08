@@ -6,7 +6,7 @@
     "age": 62,
     "isActive": true,
     "birthDate": "2014-07-21",
-    "imageUrl": "https://example.com/images/heroes/ana.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/ana.png",
     "difficulty": "Medium",
     "abilities": ["Biotic Rifle", "Sleep Dart", "Nano Boost"],
     "nationality": "Egyptian",
@@ -14,7 +14,7 @@
       "id": "ROLE-003",
       "name": "Support",
       "description": "Heroes who heal, protect, or enhance their teammates.",
-      "iconUrl": "https://example.com/images/roles/support.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/support.jpg",
       "isFrontline": false
     }
   },
@@ -25,7 +25,7 @@
     "age": 39,
     "isActive": true,
     "birthDate": "2014-11-04",
-    "imageUrl": "https://example.com/images/heroes/ashe.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/ashe.png",
     "difficulty": "Medium",
     "abilities": ["The Viper", "Dynamite", "B.O.B."],
     "nationality": "American",
@@ -33,7 +33,7 @@
       "id": "ROLE-002",
       "name": "Damage",
       "description": "Heroes who focus on dealing damage to eliminate enemies.",
-      "iconUrl": "https://example.com/images/roles/damage.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dps.jpg",
       "isFrontline": false
     }
   },
@@ -44,7 +44,7 @@
     "age": 36,
     "isActive": true,
     "birthDate": "2019-03-19",
-    "imageUrl": "https://example.com/images/heroes/baptiste.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/baptiste.png",
     "difficulty": "Hard",
     "abilities": ["Biotic Launcher", "Immortality Field", "Amplification Matrix"],
     "nationality": "Haitian",
@@ -52,7 +52,7 @@
       "id": "ROLE-003",
       "name": "Support",
       "description": "Heroes who heal, protect, or enhance their teammates.",
-      "iconUrl": "https://example.com/images/roles/support.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/support.jpg",
       "isFrontline": false
     }
   },
@@ -63,7 +63,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "2016-04-12",
-    "imageUrl": "https://example.com/images/heroes/bastion.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/bastion.png",
     "difficulty": "Easy",
     "abilities": ["Configuration: Assault", "A-36 Tactical Grenade", "Artillery"],
     "nationality": "Omnic",
@@ -71,7 +71,7 @@
       "id": "ROLE-002",
       "name": "Damage",
       "description": "Heroes who focus on dealing damage to eliminate enemies.",
-      "iconUrl": "https://example.com/images/roles/damage.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dps.jpg",
       "isFrontline": false
     }
   },
@@ -82,7 +82,7 @@
     "age": 25,
     "isActive": true,
     "birthDate": "2018-03-20",
-    "imageUrl": "https://example.com/images/heroes/brigitte.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/brigitte.png",
     "difficulty": "Medium",
     "abilities": ["Rocket Flail", "Repair Pack", "Rally"],
     "nationality": "Swedish",
@@ -90,7 +90,7 @@
       "id": "ROLE-003",
       "name": "Support",
       "description": "Heroes who heal, protect, or enhance their teammates.",
-      "iconUrl": "https://example.com/images/roles/support.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/support.jpg",
       "isFrontline": false
     }
   },
@@ -101,7 +101,7 @@
     "age": 37,
     "isActive": true,
     "birthDate": "2016-05-24",
-    "imageUrl": "https://example.com/images/heroes/cassidy.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/cassidy.png",
     "difficulty": "Medium",
     "abilities": ["Peacekeeper", "Magnetic Grenade", "Deadeye"],
     "nationality": "American",
@@ -109,7 +109,7 @@
       "id": "ROLE-002",
       "name": "Damage",
       "description": "Heroes who focus on dealing damage to eliminate enemies.",
-      "iconUrl": "https://example.com/images/roles/damage.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dps.jpg",
       "isFrontline": false
     }
   },
@@ -120,7 +120,7 @@
     "age": 21,
     "isActive": true,
     "birthDate": "2016-05-24",
-    "imageUrl": "https://example.com/images/heroes/dva.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dva.png",
     "difficulty": "Medium",
     "abilities": ["Defense Matrix", "Boosters", "Self-Destruct"],
     "nationality": "South Korean",
@@ -128,7 +128,7 @@
       "id": "ROLE-001",
       "name": "Tank",
       "description": "Heroes with high durability who create space and protect teammates.",
-      "iconUrl": "https://example.com/images/roles/tank.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/tank.jpg",
       "isFrontline": true
     }
   },
@@ -139,7 +139,7 @@
     "age": 45,
     "isActive": true,
     "birthDate": "2017-07-27",
-    "imageUrl": "https://example.com/images/heroes/doomfist.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/doomfist.png",
     "difficulty": "Hard",
     "abilities": ["Rocket Punch", "Seismic Slam", "Meteor Strike"],
     "nationality": "Nigerian",
@@ -147,7 +147,7 @@
       "id": "ROLE-001",
       "name": "Tank",
       "description": "Heroes with high durability who create space and protect teammates.",
-      "iconUrl": "https://example.com/images/roles/tank.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/tank.jpg",
       "isFrontline": true
     }
   },
@@ -158,7 +158,7 @@
     "age": 14,
     "isActive": true,
     "birthDate": "2020-04-14",
-    "imageUrl": "https://example.com/images/heroes/echo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/echo.png",
     "difficulty": "Hard",
     "abilities": ["Tri-Shot", "Flight", "Duplicate"],
     "nationality": "Artificial Intelligence",
@@ -166,7 +166,7 @@
       "id": "ROLE-002",
       "name": "Damage",
       "description": "Heroes who focus on dealing damage to eliminate enemies.",
-      "iconUrl": "https://example.com/images/roles/damage.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dps.jpg",
       "isFrontline": false
     }
   },
@@ -177,7 +177,7 @@
     "age": 35,
     "isActive": true,
     "birthDate": "2016-05-24",
-    "imageUrl": "https://example.com/images/heroes/genji.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/genji.png",
     "difficulty": "Hard",
     "abilities": ["Shuriken", "Swift Strike", "Dragonblade"],
     "nationality": "Japanese",
@@ -185,7 +185,7 @@
       "id": "ROLE-002",
       "name": "Damage",
       "description": "Heroes who focus on dealing damage to eliminate enemies.",
-      "iconUrl": "https://example.com/images/roles/damage.png",
+      "iconUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dps.jpg",
       "isFrontline": false
     }
   }
