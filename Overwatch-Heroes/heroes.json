@@ -8,6 +8,7 @@
     "birthDate": "2014-07-21",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/ana.png",
     "difficulty": "Medium",
+    "affiliation": "Former Overwatch",
     "abilities": ["Biotic Rifle", "Sleep Dart", "Nano Boost"],
     "nationality": "Egyptian",
     "role": {
@@ -27,6 +28,7 @@
     "birthDate": "2014-11-04",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/ashe.png",
     "difficulty": "Medium",
+     "affiliation": "Deadlock Rebels",
     "abilities": ["The Viper", "Dynamite", "B.O.B."],
     "nationality": "American",
     "role": {
@@ -46,6 +48,7 @@
     "birthDate": "2019-03-19",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/baptiste.png",
     "difficulty": "Hard",
+     "affiliation": "Overwatch",
     "abilities": ["Biotic Launcher", "Immortality Field", "Amplification Matrix"],
     "nationality": "Haitian",
     "role": {
@@ -65,6 +68,7 @@
     "birthDate": "2016-04-12",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/bastion.png",
     "difficulty": "Easy",
+     "affiliation": "Overwatch",
     "abilities": ["Configuration: Assault", "A-36 Tactical Grenade", "Artillery"],
     "nationality": "Omnic",
     "role": {
@@ -84,6 +88,7 @@
     "birthDate": "2018-03-20",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/brigitte.png",
     "difficulty": "Medium",
+     "affiliation": "Overwatch",
     "abilities": ["Rocket Flail", "Repair Pack", "Rally"],
     "nationality": "Swedish",
     "role": {
@@ -103,6 +108,7 @@
     "birthDate": "2016-05-24",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/cassidy.png",
     "difficulty": "Medium",
+     "affiliation": "Overwatch",
     "abilities": ["Peacekeeper", "Magnetic Grenade", "Deadeye"],
     "nationality": "American",
     "role": {
@@ -122,6 +128,7 @@
     "birthDate": "2016-05-24",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/dva.png",
     "difficulty": "Medium",
+     "affiliation": "Overwatch",
     "abilities": ["Defense Matrix", "Boosters", "Self-Destruct"],
     "nationality": "South Korean",
     "role": {
@@ -141,6 +148,7 @@
     "birthDate": "2017-07-27",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/doomfist.png",
     "difficulty": "Hard",
+     "affiliation": "Former Talon",
     "abilities": ["Rocket Punch", "Seismic Slam", "Meteor Strike"],
     "nationality": "Nigerian",
     "role": {
@@ -160,6 +168,7 @@
     "birthDate": "2020-04-14",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/echo.png",
     "difficulty": "Hard",
+     "affiliation": "Overwatch",
     "abilities": ["Tri-Shot", "Flight", "Duplicate"],
     "nationality": "Artificial Intelligence",
     "role": {
@@ -179,6 +188,7 @@
     "birthDate": "2016-05-24",
     "imageUrl": "https://raw.githubusercontent.com/matthiasmetsstudent/Overwatch-project-milestone-0/main/images/genji.png",
     "difficulty": "Hard",
+     "affiliation": "Overwatch",
     "abilities": ["Shuriken", "Swift Strike", "Dragonblade"],
     "nationality": "Japanese",
     "role": {
