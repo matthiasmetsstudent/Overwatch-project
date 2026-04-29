@@ -1,1 +1,91 @@
 
+{
+  "affiliations": [
+    {
+      "id": "AFF-001",
+      "name": "Overwatch",
+      "description": "An international task force formed to maintain global peace and security.",
+      "type": "organization",
+      "iconUrl": "https://example.com/icons/overwatch.png"
+    },
+    {
+      "id": "AFF-002",
+      "name": "Talon",
+      "description": "A covert organization seeking to reshape the world through conflict.",
+      "type": "organization",
+      "iconUrl": "https://example.com/icons/talon.png"
+    },
+    {
+      "id": "AFF-003",
+      "name": "Junkers",
+      "description": "A group of scavengers and fighters based in Junkertown, Australia.",
+      "type": "faction"
+    },
+    {
+      "id": "AFF-004",
+      "name": "Yokai",
+      "description": "A Japanese vigilante group protecting Kanezaka and its people.",
+      "type": "faction"
+    },
+    {
+      "id": "AFF-005",
+      "name": "Null Sector",
+      "description": "An extremist omnic group fighting for omnic supremacy.",
+      "type": "organization"
+    },
+    {
+      "id": "AFF-006",
+      "name": "Shambali",
+      "description": "A peaceful order of omnics devoted to spiritual growth and harmony.",
+      "type": "organization"
+    },
+    {
+      "id": "AFF-007",
+      "name": "The Collective",
+      "description": "A scientific community focused on biolight technology and innovation.",
+      "type": "organization"
+    },
+    {
+      "id": "AFF-008",
+      "name": "Wayfinder Society",
+      "description": "Explorers dedicated to uncovering ancient civilizations and knowledge.",
+      "type": "organization"
+    },
+    {
+      "id": "AFF-009",
+      "name": "Phreaks",
+      "description": "A rebellious underground group known for chaos and disruption.",
+      "type": "faction"
+    },
+    {
+      "id": "AFF-010",
+      "name": "Inti Warriors",
+      "description": "A warrior order inspired by Incan traditions and solar power.",
+      "type": "faction"
+    },
+    {
+      "id": "AFF-011",
+      "name": "Ironclad Guild",
+      "description": "A guild of master engineers specializing in weapons and armor.",
+      "type": "guild"
+    },
+    {
+      "id": "AFF-012",
+      "name": "Vishkar Corporation",
+      "description": "A powerful corporation specializing in hard-light technology and urban development.",
+      "type": "corporation"
+    },
+    {
+      "id": "AFF-013",
+      "name": "Bounty Hunters",
+      "description": "Independent mercenaries who track and capture targets for profit.",
+      "type": "group"
+    },
+    {
+      "id": "AFF-014",
+      "name": "Deadlock Rebels",
+      "description": "An outlaw gang known for heists and rebellion against authority.",
+      "type": "gang"
+    }
+  ]
+}
