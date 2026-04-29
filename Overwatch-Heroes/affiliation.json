@@ -1,6 +1,4 @@
-
-{
-  "affiliations": [
+[
     {
       "id": "AFF-001",
       "name": "Overwatch",
@@ -88,4 +86,4 @@
       "type": "gang"
     }
   ]
-}
+
