@@ -4,86 +4,98 @@
       "name": "Overwatch",
       "description": "An international task force formed to maintain global peace and security.",
       "type": "Organization",
-      "iconUrl": "https://example.com/icons/overwatch.png"
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Overwatch.png"
     },
     {
       "id": "AFF-002",
       "name": "Talon",
       "description": "A covert organization seeking to reshape the world through conflict.",
       "type": "Organization",
-      "iconUrl": "https://example.com/icons/talon.png"
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Talon.png"
     },
     {
       "id": "AFF-003",
       "name": "Junkers",
       "description": "A group of scavengers and fighters based in Junkertown, Australia.",
-      "type": "Faction"
+      "type": "Faction",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Junkers.png"
     },
     {
       "id": "AFF-004",
       "name": "Yokai",
       "description": "A Japanese vigilante group protecting Kanezaka and its people.",
-      "type": "Faction"
+      "type": "Faction",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Yokai.png"
     },
     {
       "id": "AFF-005",
       "name": "Null Sector",
       "description": "An extremist omnic group fighting for omnic supremacy.",
-      "type": "Organization"
+      "type": "Organization",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/NullSector.png"
     },
     {
       "id": "AFF-006",
       "name": "Shambali",
       "description": "A peaceful order of omnics devoted to spiritual growth and harmony.",
-      "type": "Organization"
+      "type": "Organization",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Shambali.png"
     },
     {
       "id": "AFF-007",
       "name": "The Collective",
       "description": "A scientific community focused on biolight technology and innovation.",
-      "type": "Organization"
+      "type": "Organization",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Collective.png"
     },
     {
       "id": "AFF-008",
       "name": "Wayfinder Society",
       "description": "Explorers dedicated to uncovering ancient civilizations and knowledge.",
-      "type": "Organization"
+      "type": "Organization",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Wayfinder.png"
     },
     {
       "id": "AFF-009",
       "name": "Phreaks",
       "description": "A rebellious underground group known for chaos and disruption.",
-      "type": "Faction"
+      "type": "Faction",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Phreaks.png"
     },
     {
       "id": "AFF-010",
       "name": "Inti Warriors",
       "description": "A warrior order inspired by Incan traditions and solar power.",
-      "type": "Faction"
+      "type": "Faction",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/IntiWarriors.png"
     },
     {
       "id": "AFF-011",
       "name": "Ironclad Guild",
       "description": "A guild of master engineers specializing in weapons and armor.",
-      "type": "Guild"
+      "type": "Guild",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/IronClad.png"
     },
     {
       "id": "AFF-012",
       "name": "Vishkar Corporation",
       "description": "A powerful corporation specializing in hard-light technology and urban development.",
-      "type": "Corporation"
+      "type": "Corporation",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Viskar.png"
     },
     {
       "id": "AFF-013",
       "name": "Bounty Hunters",
       "description": "Independent mercenaries who track and capture targets for profit.",
-      "type": "Group"
+      "type": "Group",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Bounty_Hunter.png"
     },
     {
       "id": "AFF-014",
       "name": "Deadlock Rebels",
       "description": "An outlaw gang known for heists and rebellion against authority.",
-      "type": "Gang"
+      "type": "Gang",
+      "iconUrl": "https://github.com/matthiasmetsstudent/Overwatch-project/tree/main/images/affiliations/Deadlock.png"
     }
   ]
 
